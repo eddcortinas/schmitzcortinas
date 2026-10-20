@@ -7,7 +7,7 @@
    Exemplo: (85) 9 1234-5678  ->  "5585912345678"
    INSTAGRAM: só o nome do perfil, sem o @. */
 const CONFIG = {
-  WHATSAPP: "", // FALTA: número do WhatsApp da Schmitz (ex.: "5548999999999")
+  WHATSAPP: "554830346636",
   INSTAGRAM: "schmitzcortinas",
 };
 
